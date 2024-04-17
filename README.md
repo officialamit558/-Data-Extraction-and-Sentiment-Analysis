@@ -3,11 +3,11 @@
 This repository contains code for extracting data from URLs and performing sentiment analysis on the extracted text. The analysis includes calculating various metrics such as sentiment scores, average sentence length, percentage of complex words, and more.
 
 # Table of Contents
-. Installation
-. Usage
-. Data Extraction
-. Data Analysis
-. Output
+1) Installation
+2) Usage
+3) Data Extraction
+4) Data Analysis
+5) Output
 # Installation
 To run the code in this repository, you need to have Python installed along with the required libraries. You can install the necessary libraries using pip:
 '''
